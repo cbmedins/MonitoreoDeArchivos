@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "VIAksROZ4L17zPy72Un2nDnLOE/T91Qehfbr4G9lYb7kns/OHXV1n1IDv8xVU6D9F4wTXAVCRcyNCgMR6nLBow==",
+  "success": true,
+  "projectFilePath": "D:\\Tesis\\MonitoreoDeArchivos\\src\\MonitoreoDeArchivos\\FileSystemWatcher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cris_\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\cris_\\.nuget\\packages\\jot\\2.1.7\\jot.2.1.7.nupkg.sha512",
+    "C:\\Users\\cris_\\.nuget\\packages\\microsoft.codeanalysis.fxcopanalyzers\\3.3.1\\microsoft.codeanalysis.fxcopanalyzers.3.3.1.nupkg.sha512",
+    "C:\\Users\\cris_\\.nuget\\packages\\microsoft.codeanalysis.versioncheckanalyzer\\3.3.1\\microsoft.codeanalysis.versioncheckanalyzer.3.3.1.nupkg.sha512",
+    "C:\\Users\\cris_\\.nuget\\packages\\microsoft.codequality.analyzers\\3.3.1\\microsoft.codequality.analyzers.3.3.1.nupkg.sha512",
+    "C:\\Users\\cris_\\.nuget\\packages\\microsoft.netcore.analyzers\\3.3.1\\microsoft.netcore.analyzers.3.3.1.nupkg.sha512",
+    "C:\\Users\\cris_\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\cris_\\.nuget\\packages\\microsoft.netframework.analyzers\\3.3.1\\microsoft.netframework.analyzers.3.3.1.nupkg.sha512",
+    "C:\\Users\\cris_\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\cris_\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\cris_\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\cris_\\.nuget\\packages\\system.codedom\\4.7.0\\system.codedom.4.7.0.nupkg.sha512",
+    "C:\\Users\\cris_\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\cris_\\.nuget\\packages\\system.management\\4.7.0\\system.management.4.7.0.nupkg.sha512",
+    "C:\\Users\\cris_\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\cris_\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\cris_\\.nuget\\packages\\wpflocalizeextension\\3.8.0\\wpflocalizeextension.3.8.0.nupkg.sha512",
+    "C:\\Users\\cris_\\.nuget\\packages\\xamlmarkupextensions\\2.0.0\\xamlmarkupextensions.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
