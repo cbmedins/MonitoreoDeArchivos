@@ -41,5 +41,14 @@ namespace FileSystemWatcher.View.CustomControls
         }
         public static readonly DependencyProperty TextProperty = 
           DependencyProperty.Register("Text", typeof(TextBoxWithPlaceHolder));  
+
+
+        public string IsPassword
+        {
+          get { return (string)GetValue(IsPasswordProperty); }
+          set { SetValue(IsPasswordProperty, value); }
+        }
+        public static readonly DependencyProperty IsPasswordProperty = 
+          DependencyProperty.Register("IsPassword", typeof(TextBoxWithPlaceHolder));
     }
 }
