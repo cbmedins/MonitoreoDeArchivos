@@ -54,7 +54,15 @@
                     FontWeight="Bold"   
                     x:Name="userName"/>
             </TextBlock>
-            <CustomControls:TextBoxWithPlaceHolder Grid.Row="1"/>
+            <CustomControls:TextBoxWithPlaceHolder 
+                Grid.Row="1" 
+                PlaceHolder="Email"/>
+
+            <!-- Password TextBlox-->
+            <CustomControls:TextBoxWithPlaceHolder 
+                Grid.Row="2" 
+                PlaceHolder="Password"/>
+ 
         </Grid>
     </Grid>
 </Page>

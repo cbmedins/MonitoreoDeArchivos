@@ -24,5 +24,22 @@ namespace FileSystemWatcher.View.CustomControls
         {
             InitializeComponent();
         }
+
+        public string PlaceHolder
+        {
+          get { return (string)GetValue(PlaceHolderProperty); }
+          set { SetValue(PlaceHolderProperty, value); }
+        }
+        public static readonly DependencyProperty PlaceHolderProperty = 
+          DependencyProperty.Register("PlaceHolder", typeof(TextBoxWithPlaceHolder));
+
+
+        public string Text
+        {
+          get { return (string)GetValue(TextProperty); }
+          set { SetValue(TextProperty, value); }
+        }
+        public static readonly DependencyProperty TextProperty = 
+          DependencyProperty.Register("Text", typeof(TextBoxWithPlaceHolder));  
     }
 }
